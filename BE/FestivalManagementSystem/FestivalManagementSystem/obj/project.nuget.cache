@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "+vC2wKefK7GpJGufFUUx4lywZio1hvA9jkA8bpwVxo2ixmbS9ES8/63bexupmC3XlWQxqfk4Bos0lQQF3GD0EQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mohmd\\OneDrive\\Documents\\GitHub\\Festival-Management-System\\BE\\FestivalManagementSystem\\FestivalManagementSystem\\FestivalManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mohmd\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\mohmd\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mohmd\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\mohmd\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\mohmd\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\mohmd\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
