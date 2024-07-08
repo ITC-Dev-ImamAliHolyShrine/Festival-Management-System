@@ -8,6 +8,7 @@ C:\MyProjects\GitHub\Festival-Management-System\BE\FestivalManagementSystem\Fest
 C:\MyProjects\GitHub\Festival-Management-System\BE\FestivalManagementSystem\FestivalManagementSystem\bin\Debug\net8.0\Azure.Core.dll
 C:\MyProjects\GitHub\Festival-Management-System\BE\FestivalManagementSystem\FestivalManagementSystem\bin\Debug\net8.0\Azure.Identity.dll
 C:\MyProjects\GitHub\Festival-Management-System\BE\FestivalManagementSystem\FestivalManagementSystem\bin\Debug\net8.0\Humanizer.dll
+C:\MyProjects\GitHub\Festival-Management-System\BE\FestivalManagementSystem\FestivalManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\MyProjects\GitHub\Festival-Management-System\BE\FestivalManagementSystem\FestivalManagementSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\MyProjects\GitHub\Festival-Management-System\BE\FestivalManagementSystem\FestivalManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 C:\MyProjects\GitHub\Festival-Management-System\BE\FestivalManagementSystem\FestivalManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
