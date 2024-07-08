@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mohmd\\OneDrive\\Documents\\GitHub\\Festival-Management-System\\BE\\FestivalManagementSystem\\FestivalManagementSystem\\FestivalManagementSystem.csproj": {}
+    "C:\\MyProjects\\GitHub\\Festival-Management-System\\BE\\FestivalManagementSystem\\FestivalManagementSystem\\FestivalManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mohmd\\OneDrive\\Documents\\GitHub\\Festival-Management-System\\BE\\FestivalManagementSystem\\FestivalManagementSystem\\FestivalManagementSystem.csproj": {
+    "C:\\MyProjects\\GitHub\\Festival-Management-System\\BE\\FestivalManagementSystem\\FestivalManagementSystem\\FestivalManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mohmd\\OneDrive\\Documents\\GitHub\\Festival-Management-System\\BE\\FestivalManagementSystem\\FestivalManagementSystem\\FestivalManagementSystem.csproj",
+        "projectUniqueName": "C:\\MyProjects\\GitHub\\Festival-Management-System\\BE\\FestivalManagementSystem\\FestivalManagementSystem\\FestivalManagementSystem.csproj",
         "projectName": "FestivalManagementSystem",
-        "projectPath": "C:\\Users\\mohmd\\OneDrive\\Documents\\GitHub\\Festival-Management-System\\BE\\FestivalManagementSystem\\FestivalManagementSystem\\FestivalManagementSystem.csproj",
+        "projectPath": "C:\\MyProjects\\GitHub\\Festival-Management-System\\BE\\FestivalManagementSystem\\FestivalManagementSystem\\FestivalManagementSystem.csproj",
         "packagesPath": "C:\\Users\\mohmd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mohmd\\OneDrive\\Documents\\GitHub\\Festival-Management-System\\BE\\FestivalManagementSystem\\FestivalManagementSystem\\obj\\",
+        "outputPath": "C:\\MyProjects\\GitHub\\Festival-Management-System\\BE\\FestivalManagementSystem\\FestivalManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mohmd\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,20 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
